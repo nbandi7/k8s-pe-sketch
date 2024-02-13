@@ -1,0 +1,21 @@
+# OS or Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Node.js
+node_modules/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+
+# Application dependencies
+/vendor/
+
+# Local development files
+.env
+.env.local
